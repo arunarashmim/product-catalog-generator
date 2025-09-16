@@ -21,6 +21,11 @@ This project is a tool that automatically generates product descriptions and spe
 - Process multiple products at once (batch processing).
 - Save time by reducing manual work.
 
+  ## Screenshots
+
+![Screenshot of product-catalog-generator](image.png)
+
+
 ## Features
 - Image-based input for product details.
 - Automated description and specification generation.
@@ -31,4 +36,5 @@ This project is a tool that automatically generates product descriptions and spe
 1. Upload product images to the tool.
 2. Run the generator script.
 3. Get the formatted descriptions and specifications for all products.
+
 
